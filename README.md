@@ -11,6 +11,7 @@ Early on in the project, I chose to use an old pixelated image of my Computer Sc
 
 All images and sounds were created by me, and working on this program gave me a chance to combine many fundamental programming concepts as well as my side hobby of music composition to complete this entertaining project. 
 
+To run, clone repository and run the rungame.sh file
 
 ##Controls 
 Player 1:
@@ -21,5 +22,5 @@ Player 2:
 Numpad - Move
 Numpad7 - Shoot
 
-##To do
+##To Do
 I am happy with the way this game turned out, however it would be a good challenge to come back to this in the future using the current experience I have now. Changing the way that many of the animations are structured, as well as relying on a sprite sheet rather than a number of images would be simple changes which would clean up the flow of the program. 
